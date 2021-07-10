@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">CustomSingleChoiceItemDialog</string>
+  <string name="normal_dialog_text">Normal dialog</string>
+  <string name="custom_dialog_text">Custom dialog</string>
 </resources>
