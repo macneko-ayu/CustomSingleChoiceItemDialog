@@ -2,5 +2,6 @@
   <string name="app_name">CustomSingleChoiceItemDialog</string>
   <string name="normal_dialog_text">Select disable item</string>
   <string name="custom_dialog_text">Select item</string>
-  <string name="disabled_label">disable item position is %1$d</string>
+  <string name="disabled_item_message">disable item position is %1$d</string>
+  <string name="not_selected_item_message">Not selected item</string>
 </resources>
